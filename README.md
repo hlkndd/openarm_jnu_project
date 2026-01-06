@@ -1,0 +1,3 @@
+先ros2 launch openarm_moveit_config demo_joint.launch.py
+然后运行camera_vision.py
+最后运行openarm_grasp_banana.py
